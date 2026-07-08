@@ -1,0 +1,10 @@
+{
+  "name": "Remix: EcoSense",
+  "description": "Intelligent waste logistics, real-time overflow telemetry, and smart waste sorting powered by AI environmental stewardship.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
