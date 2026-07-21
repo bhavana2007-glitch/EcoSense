@@ -91,63 +91,6 @@ EcoSense-AI/
 └── LICENSE
 ```
 
----
-
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/EcoSense-AI.git
-```
-
-### Navigate to Project
-
-```bash
-cd EcoSense-AI
-```
-
-### Install Dependencies (if applicable)
-
-```bash
-npm install
-```
-
-### Run the Project
-
-```bash
-npm start
-```
-
-or simply open
-
-```
-index.html
-```
-
-in your browser.
-
----
-
-## 📷 Screenshots
-
-### 🏠 Home Page
-
-_Add screenshot here_
-
-
-### 📸 Waste Detection
-
-_Add screenshot here_
-
----
-
-### 🤖 Prediction Result
-
-_Add screenshot here_
-
----
-
 ## 🌍 Future Enhancements
 
 - 🌐 Multi-language Support
@@ -193,35 +136,7 @@ Proper Disposal Recommendation
 
 🌍 Environmental Awareness Programs
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Push to your branch
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👩‍💻 Author
-
-**Bhavana S**
-
-Computer Science Engineering Student
-
-Passionate about AI, Software Development, and Sustainable Technology.
-
----
+----
 
 ## ⭐ Support
 
