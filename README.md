@@ -62,10 +62,10 @@ This helps:
 - JavaScript
 
 ### 🧠 AI / Machine Learning
-- Google Gemini API (or update with the model/service you used)
+- Google Gemini API 
 
 ### ☁️ Deployment
-- Firebase Hosting / Google Cloud Run (update based on your deployment)
+- Firebase Hosting / Google Cloud Run 
 
 ### 🧰 Tools
 - VS Code
