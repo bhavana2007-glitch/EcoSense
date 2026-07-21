@@ -135,7 +135,6 @@ in your browser.
 
 _Add screenshot here_
 
----
 
 ### 📸 Waste Detection
 
